@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name iS Makbool Ahemad and I am a Cloud Engineer with 6+ Month  of experience in AWS , Python, S3 Services , EC2 , IAM, Lambda, SQS, SNS , Monitoring, Vertulization, Networking, Cloud Computing And Other Services
+My Name is Makbool Ahemad and I am a Cloud Engineer with 6+ Month  of experience in AWS , Python, S3 Services , EC2 , IAM, Lambda, SQS, SNS , Monitoring, Vertulization, Networking, Cloud Computing And Other Services
 
 
 ## 🌐 Socials:
